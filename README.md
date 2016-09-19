@@ -6,3 +6,5 @@ Simply run the VisualizerController main method with configurations in the "conf
 
 # Installation
 To run the program, simply compile the project and then run VisualizerController.
+
+![Example Visualization](http://i.imgur.com/Q88yck6.png)
